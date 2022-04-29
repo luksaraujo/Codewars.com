@@ -1,4 +1,5 @@
 <h1 align="center">
+  <a href="https://github.com/luksaraujo/Codewars.com">
   <img alt="Codewars logo" height="60" title="Codewars" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />
 </h1>
 
