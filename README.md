@@ -16,6 +16,7 @@ Abaixo estão listadas as tecnologias presentes neste repositório:
 
 ```
 📁
+├─ README.md
 └─ Python
    ├─ spinWords.py
    └─ README.md
