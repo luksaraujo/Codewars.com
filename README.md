@@ -22,6 +22,7 @@ Abaixo estão listadas as tecnologias presentes neste repositório:
 └─ Python
    ├─ spinWords.py
    ├─ digital_root.py
+   ├─ duplicate_encode.py
    └─ README.md
 ```
 

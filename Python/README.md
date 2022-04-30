@@ -15,6 +15,8 @@ Este repositório armazena todos os códigos desenvolvidos na linguagem de progr
   - Função que lê uma string (formada apenas por letras e espaços) com uma ou mais palavras e retorna essa mesma string, mas com todas as palavras que têm cinco ou mais letras de trás para a frente.
 - `digital_root.py`
   - Função que recebe um valor `n` e retorna a soma dos dígitos de `n`. Caso o resultado da soma seja um número com mais de um dígito ele continuará sendo reduzido através da soma de seus dígitos até que um número de apenas um dígito seja produzido.
+- `duplicate_encode.py`
+  - Converte uma string em uma nova string onde cada caracter da nova string equivale a `(` caso ele apareça apenas uma vez na string original e a `)` caso ele apareça duas ou mais vezes na string original. O código ignora a diferença entre letras maiúsculas e minúsculas.
 
 <div align="center">
   <p>Made with ❤ by Lucas Araújo</p>
