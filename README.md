@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/luksaraujo/Codewars.com">
-  <img alt="Codewars logo" height="60" title="Codewars" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />
+    <img alt="Codewars logo" height="60" title="Codewars" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />
+  </a>
 </h1>
 
 ## ⁉ Sobre o repositório
@@ -20,6 +21,7 @@ Abaixo estão listadas as tecnologias presentes neste repositório:
 ├─ README.md
 └─ Python
    ├─ spinWords.py
+   ├─ digital_root.py
    └─ README.md
 ```
 
